@@ -115,8 +115,10 @@
 </p>
 </br>
 
-Like My Work? </br>
-<a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<h3> Like My Work? </h3>
+<a href="https://www.paypal.com/donate/?hosted_button_id=FXLEYP4FXC5B2" target="_blank">
+  <img src="./img/donar-con-paypal.png" alt="Donar con Paypal" height="100px" width="217px" >
+</a>
 
 <hr>
 <h3 align="center"> 😊 Thanks for your visit! 😊</h3>
