@@ -98,8 +98,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelE09&layout=compact)](https://github.com/samuelE09/github-readme-stats)
 
+<hr>
+<h3 align="left">📊 Actividad </h3>
 
-<br>
+[![Samuel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=samuelE09&theme=react&custom_title=Mi%20Actividad)](https://github.com/samuelE09/github-readme-activity-graph)
+
 
 <hr>
 <h3 align="left"> 💼 Connect with me:</h3>
