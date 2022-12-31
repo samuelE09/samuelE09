@@ -38,6 +38,7 @@
 
 <hr>
 <h3 align="center"> 💻 Programming and markup languages </h3></br>
+<!---
 <p>
 <a> <img src="https://img.shields.io/badge/-Python-4286f4?logo=python&logoColor=white" height="30px"></a>
 <a> <img src="https://img.shields.io/badge/-Javascript-f7ff00?logo=javascript&logoColor=white" height="30px"></a>
@@ -47,10 +48,16 @@
 <a> <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white" height="30px"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="30px"></a>
 </p>
-
+-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,git" />
+  </a>
+</p>
 
 <hr>
 <h3 align="center"> 💻 Frameworks and Libraries </h3></br>
+
 <p>
 <a> <img src="https://img.shields.io/badge/-Arduino-2193b0?logo=arduino&logoColor=white" height="30px"></a>
 <a> <img src="https://img.shields.io/badge/-Raspeberry%20PI-4A00E0?logo=raspberrypi&logoColor=white" height="30px"></a>
